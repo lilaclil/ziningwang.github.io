@@ -21,10 +21,9 @@ social: true  # includes social icons at the bottom of the page
 PhD in Marketing<br>
 Sauder School of Business<br>
 University of British Columbia (UBC)<br>
-zining.wang@sauder.ubc.ca<br>
 [Linkedin](https://www.linkedin.com/in/zining-wang-004952b9/)
 
-<a href='#'>About Me:</a>
+**About Me**
 
 I am a fifth-year doctoral candidate at the Sauder School of Business, University of British Columbia (UBC). My advisor is Dr. [Yanwen Wang](https://www.sauder.ubc.ca/people/yanwen-wang).
 
