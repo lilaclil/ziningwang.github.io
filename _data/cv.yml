@@ -1,32 +1,52 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Zining Wang
+#    - name: Affiliations
+#      value: 14th March 1879
+#    - name: Languages
+#      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Marketing
+      institution: Sauder School of Business, University of British Columbia
+      year: Expected 2024
+
+    - title: M.Phil. in Marketing, Cum Laude
+      institution: Rotterdam School of Management, Erasmus University
+      year: 2018
+    - title: Bachelor of Economics
+      institution: International Business School, Beijing Foreign Studies University
+      year: 2016
+
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Substantive:
+      items:
+        - Digital Marketing
+        - Advertising
+        - Cause Marketing
+    - title: Methodological:
+      items:
+        - Deep Learning
+        - Machine Learning
+        - Multimodal Data
+        - Automated Video Analysis
+        - Econometrics
+        - Bayesian Methods
+- title: Working Papers
+  type: nested_list
+  congtents:
+    - title: Zining Wang, Yanwen Wang, Shuai Yang, and Hongju Liu. A Deep Dive into
+Live-Streaming Sales Pitch.
+    -items:
+      - **Job Market Paper**
+
 
 - title: Experience
   type: time_table
@@ -72,26 +92,9 @@
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Max Planck Medal

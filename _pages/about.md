@@ -23,7 +23,7 @@ Sauder School of Business<br>
 University of British Columbia (UBC)<br>
 [Linkedin](https://www.linkedin.com/in/zining-wang-004952b9/)
 
-**About Me**
+**About Me**3
 
 I am a fifth-year doctoral candidate at the Sauder School of Business, University of British Columbia (UBC). My advisor is Dr. [Yanwen Wang](https://www.sauder.ubc.ca/people/yanwen-wang).
 
