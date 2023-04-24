@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am going to Olso for the the AMA-Sheth Foundation Doctoral Consortium in June 14-17, 2023. :smile:
+I am going to Oslo for the 2023 AMA-Sheth Foundation Doctoral Consortium (scheduled June 14-17, 2023). 

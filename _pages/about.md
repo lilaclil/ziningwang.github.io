@@ -7,25 +7,25 @@ permalink: /
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p></p>
     <p></p>
     <p></p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-PhD in Marketing<br>
-Sauder School of Business<br>
-University of British Columbia (UBC)<br>
-[Linkedin](https://www.linkedin.com/in/zining-wang-004952b9/)
+#PhD in Marketing<br>
+#Sauder School of Business<br>
+#University of British Columbia (UBC)<br>
+# [Linkedin](https://www.linkedin.com/in/zining-wang-004952b9/)
 
-**About Me**3
 
-I am a fifth-year doctoral candidate at the Sauder School of Business, University of British Columbia (UBC). My advisor is Dr. [Yanwen Wang](https://www.sauder.ubc.ca/people/yanwen-wang).
+
+Welcome to my website! I am a PhD Candidate in Marketing at the Sauder School of Business, University of British Columbia (UBC). My advisor is Dr. [Yanwen Wang](https://www.sauder.ubc.ca/people/yanwen-wang).
 
 As an empirical modeler, I aims to utilize both econometric and machine learning methods to address marketing challenges. My substantial research area lies in digital marketing and multimodal data analysis.
 
