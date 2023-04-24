@@ -43,11 +43,11 @@
 
 - title: Working Papers
   type: nested_list
-  congtents:
+  contents:
     - title: Zining Wang, Yanwen Wang, Shuai Yang, and Hongju Liu. A Deep Dive into
 Live-Streaming Sales Pitch.
-    -items:
-      - **Job Market Paper**
+     items:
+       - Job Market Paper
 
 
 - title: Experience
