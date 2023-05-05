@@ -1,12 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I taught *Introduction to Marketing* (COMM 296) at Sauder School of Business, UBC, during the 2021-2022 academic year. I incorporated frontier marketing research, especially advances in digital marketing, into the course design. I am honored to have received the ***Paul Chwelos Memorial Graduate Scholarship (a teaching award)*** in recognition of my involvement in undergraduate education.
 
-Organize your courses by years, topics, or universities, however you like!
+The following is a list of my teaching assistantship duties at Sauder:
+- International/Full-Time Master of Business Administration (MBA)
+  - Marketing Research, Business Intelligence for Management
+- Master of Business Analytics (MBAN)
+  - Customer Analytics, Pricing Analytics, Data Driven Marketing
+- Bachelor of Commerce (BCom)
+  - Marketing Research

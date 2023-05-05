@@ -45,7 +45,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -313,24 +313,20 @@ external_links:
 
 
 # -----------------------------------------------------------------------------
-# Responsive WebP Images
+# Jekyll Responsive Images
 # -----------------------------------------------------------------------------
 
-imagemagick:
-  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
-  widths:
-    - 480
-    - 800
-    - 1400
-  input_directories:
-    - assets/img/
-  input_formats:
-    - ".jpg"
-    - ".jpeg"
-    - ".png"
-    - ".tiff"
-  output_formats:
-    webp: "-resize 800x"
+responsive_image:
+  template: _includes/responsive_img.html
+  # Quality to use when resizing images.
+  default_quality: 80
+  sizes:
+    - width: 480
+    - width: 800
+    - width: 1400
+      quality: 90
+  # Strip EXIF and other JPEG profiles. Helps to minimize JPEG size.
+  strip: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams

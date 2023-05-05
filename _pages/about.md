@@ -27,3 +27,12 @@ Prior to joining Sauder, I received a Research Master’s degree in Marketing fr
 You can find my CV [here](https://www.dropbox.com/s/mzzigg5xpp88xcv/resume_Zining_Wang_UBC_20230504.pdf?dl=0).
 
 **I am on the 2023-2024 academic job market.**
+
+**Selected Conference Presentations:**
+- A Deep Dive into Live-Streaming Sales Pitch
+  - 2023 UBC–UW Annual Marketing Conference, May 2023.
+- Sales Impacts of Live Streaming
+  - 2022 ISMS Marketing Science Conference, June 2022.
+  - 2022 UBC–UW Annual Marketing Conference, June 2022.  
+- Toward a Thriving Two-Sided Ecosystem: The Ripple Effect of User Feedback on Content Creation
+  - [2021 INFORMS Revenue Management and Pricing Section Conference](https://carey.jhu.edu/faculty/seminars-conferences/informs-conference)
