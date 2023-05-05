@@ -6,7 +6,9 @@ nav: true
 nav_order: 5
 ---
 
-I taught *Introduction to Marketing* (COMM 296) at Sauder School of Business, UBC, during the 2021-2022 academic year. I incorporated frontier marketing research, especially advances in digital marketing, into the course design. I am honored to have received the ***Paul Chwelos Memorial Graduate Scholarship (a teaching award)*** in recognition of my involvement in undergraduate education.
+I taught *Introduction to Marketing* (COMM 296) at Sauder School of Business, UBC, during the 2021-2022 academic year. I incorporated frontier marketing research, especially advances in digital marketing, into the course design.
+
+I am honored to receive the ***Paul Chwelos Memorial Graduate Scholarship (a teaching award)***.
 
 The following is a list of my teaching assistantship duties at Sauder:
 - International/Full-Time Master of Business Administration (MBA)

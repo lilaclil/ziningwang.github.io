@@ -11,7 +11,7 @@ My substantial research area focuses on digital marketing. My recent research pr
 
 In terms of methodologies, I intertwine econometric methods with advances in computer science. I approach research questions using a variety of techniques, such as instrumental methods, maximum likelihood methods, Bayesian statistics, synthetic controls, natural language processing, and computer vision.
 
-My long-term research goal is to seek innovative solutions to marketing challenges in the digital era. Specifically, I'd like to decode the vast amount of unstructured data that consumers encounter every single day, and investigate their impact on consumer behavior, particularly in the context of video-based marketing.
+My long-term research goal is to seek innovative solutions to marketing challenges in the digital era. Specifically, I'd like to decode the vast amount of unstructured data that consumers encounter every single day, and investigate their impact on consumer behavior.
 
 **Working Papers:**
 - A Deep Dive into Live-Streaming Sales Pitch. Zining Wang, Yanwen Wang, Shuai Yang, and Hongju Liu.
