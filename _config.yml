@@ -125,7 +125,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # related_blog_posts:
 #  enabled: true
@@ -216,7 +216,7 @@ plugins:
   - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
