@@ -5,7 +5,7 @@ permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -28,7 +28,8 @@ You can find my CV [here](https://www.dropbox.com/s/mzzigg5xpp88xcv/resume_Zinin
 
 **I am on the 2023-2024 academic job market.**
 
-**Selected Conference Presentations:**
+
+`Selected Conference Presentations:`
 - A Deep Dive into Live-Streaming Sales Pitch
   - 2023 UBC–UW Annual Marketing Conference, May 2023.
 - Sales Impacts of Live Streaming
