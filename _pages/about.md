@@ -24,7 +24,7 @@ As an empirical modeler, I aim to utilize both econometric and deep learning met
 
 Prior to joining Sauder, I received a Research Master’s degree in Marketing from Erasmus University and a Bachelor’s degree in Economics from Beijing Foreign Studies University.
 
-You can find my CV [here](https://www.dropbox.com/s/mzzigg5xpp88xcv/resume_Zining_Wang_UBC_website.pdf?dl=0).
+You can find my CV [here](https://www.dropbox.com/s/5f7zbz5xhi7o3we/resume_Zining_Wang_UBC_website.pdf?dl=0).
 
 **I am on the 2023-2024 academic job market.**
 
