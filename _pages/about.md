@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Welcome to my website! I am a Assistant Professor of Marketing at Carroll School of Management, Boston College.
+Welcome to my website! I am an Assistant Professor of Marketing at Carroll School of Management, Boston College.
 As an empirical modeler, I aim to utilize both econometric and deep learning methods to address marketing challenges. My primary research focuses on **digital marketing, prosocial behavior, and automated video analysis**.
 
 I hold a Ph.D. from the University of British Columbia, an M.Sc. from Erasmus University, and a BEcon. from Beijing Foreign Studies University.
