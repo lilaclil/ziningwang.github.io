@@ -18,16 +18,12 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Welcome to my website! I am a fifth-year doctoral candidate at Sauder School of Business, University of British Columbia (UBC). My advisor is Dr. [Yanwen Wang](https://www.sauder.ubc.ca/people/yanwen-wang).
+Welcome to my website! I am a Assistant Professor of Marketing at Carroll School of Management, Boston College.
+As an empirical modeler, I aim to utilize both econometric and deep learning methods to address marketing challenges. My primary research focuses on **digital marketing, prosocial behavior, and automated video analysis**.
 
-As an empirical modeler, I aim to utilize both econometric and deep learning methods to address marketing challenges. My research focuses on **digital marketing and video-based marketing**. My recent projects have examined the impact of live commerce and the driving forces of user-generated content.
+I hold a Ph.D. from the University of British Columbia, an M.Sc. from Erasmus University, and a BEcon. from Beijing Foreign Studies University.
 
-Prior to joining Sauder, I received a Research Master’s degree in Marketing from Erasmus University and a Bachelor’s degree in Economics from Beijing Foreign Studies University.
-
-You can find my CV [here](https://www.dropbox.com/s/5f7zbz5xhi7o3we/resume_Zining_Wang_UBC_website.pdf?dl=0).
-
-**I am on the 2023-2024 academic job market.**
-
+You can find my CV [here](https://www.dropbox.com/scl/fi/ch12dx9b84rtmbxmqn9pk/resume_20240709.pdf?rlkey=836904clxtnobox6y4deyfurt&st=kqk5jdef&dl=0).
 
 `Selected Conference Presentations:`
 - A Deep Dive into Live-Streaming Sales Pitch
